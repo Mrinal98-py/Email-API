@@ -1,0 +1,7 @@
+pip install pymongo
+pip install transformers
+pip install google-auth
+pip install google-auth-oauthlib
+pip install google-api-python-client
+pip install gridfs
+pip install beautifulsoup4
