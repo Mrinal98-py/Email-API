@@ -3,5 +3,7 @@ transformers==4.11.3
 google-auth==2.3.3
 google-auth-oauthlib==0.4.6
 google-api-python-client==2.28.0
+gridfs==3.9.0
 beautifulsoup4==4.10.0
 torch==1.8.1
+python-dateutil==2.8.2
