@@ -17,7 +17,7 @@ from dateutil.parser import parse as date_parse
 from bs4 import BeautifulSoup
 
 # Create a MongoDB client and connect to the server
-client = MongoClient("mongodb+srv://Mrinal:getdataold@mrinal.8kbejgd.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://Mrinal.8kbejgd.mongodb.net/?retryWrites=true&w=majority")
 
 # Specify the database
 db = client['email_database']
